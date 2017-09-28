@@ -1,0 +1,68 @@
+.user-container {
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+  background-color: rgba(244,241,234,0.5);
+  padding-top: 1em;
+  width: 250px;
+  margin: 1em;
+}
+
+h2.winner {
+  color: lawngreen;
+}
+
+h2.loser {
+  color: red;
+}
+
+.user-info {
+  text-align: left;
+  margin: 1em;
+}
+
+body {
+  margin: 20px;
+}
+
+h1 {
+  font-size: 1em;
+}
+
+.user-image {
+  width: 128px;
+  height: 128px;
+  border: .1em solid #A29276;
+  border-radius:50%;
+  margin: auto;
+  background-size: cover;
+  background-position: center;
+}
+
+.title {
+  width: 250px;
+  margin: auto;
+}
+
+img.goodreads {
+  width: 200px;
+}
+
+/* default button */
+.btn-default {
+    background-color: #5C4312;
+    color: #D2D0C3;
+    border-color: #4C370F;
+    font-size: large;
+    cursor: pointer;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active    {
+    background-color: #897753;
+    color: #E7E4D5;
+    border-color: #A29276;
+}
+
+.card-footer {
+  padding: .75rem;
+}
