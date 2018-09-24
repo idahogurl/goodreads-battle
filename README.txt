@@ -4,7 +4,7 @@ React and Redux application where the user can enter two GoodReads users to get 
 
 **Sample Response**
 
-`<GoodreadsResponse>
+```xml<GoodreadsResponse>
 <Request>
 <authentication>true</authentication>
 <key>
@@ -576,4 +576,4 @@ https://www.goodreads.com/author/show/36857.Manil_Suri
 </updates>
 <user_statuses></user_statuses>
 </user>
-</GoodreadsResponse>`
+</GoodreadsResponse>```
