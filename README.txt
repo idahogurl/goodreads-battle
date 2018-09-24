@@ -1,5 +1,6 @@
 **Description**
-React and Redux application where the user can enter two GoodReads users to get a comparision. The the number of books read, reading, to-read are shown for each entered user. Uses GoodReads API to obtain the data.
+
+React and Redux application where the user can enter two GoodReads users to get a comparison. The number of books read, reading, and to-read are shown for each entered user. Uses GoodReads API to obtain the data.
 
 **Sample Response**
 
